@@ -1,0 +1,54 @@
+
+  body
+    {
+      /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9e1cf+16,5492ff+96 */
+      //  background: #f9e1cf; /* Old browsers */
+      //  background: -moz-linear-gradient(top,  #f9e1cf 16%, #5492ff 96%); /* FF3.6-15 */
+      //  background: -webkit-linear-gradient(top,  #f9e1cf 16%,#5492ff 96%); /* Chrome10-25,Safari5.1-6 */
+      //  background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      //  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
+
+        background-color: #122759;
+    //  background-image: url("hudson river.png");
+    //  background-repeat: no-repeat;
+    //  background-attachment: fixed;
+    //  background-position: top;
+        background-size: cover;
+
+
+        width: 70%;
+        margin: auto;
+        padding-top: 100px;
+        padding-right: 100px;
+        padding-bottom: 80px;
+        padding-left: 100px;
+    }
+  h1
+    {
+        font-family: 'Lora', serif;
+        font-size: 30px;
+        line-height: 38px;
+        text-align: left;
+        color: #F2F3F4;
+      }
+  p
+    {
+      font-family: 'Lora', serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #F2F3F4;
+    }
+
+  a
+    {
+      text-decoration: none;
+    }
+      a:link {
+        color: #F2F3F4;
+        border-bottom: 1px solid #579DFB;
+      }
+      a:visited {
+        color: #F2F3F4;
+        border-bottom: 1px solid #579DFB;
+        opacity: 0.6;
+      }
